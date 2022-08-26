@@ -5,7 +5,7 @@
 cd cient
 ```
 
-``
+```
 npm install
 ```
 
